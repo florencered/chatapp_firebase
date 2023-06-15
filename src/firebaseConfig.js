@@ -11,12 +11,12 @@ import {getFirestore} from 'firebase/firestore'
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyBRu5OtvnsAaABNzNWpvR6HI9tjClISE1g",
-  authDomain: "chatbot-e3d89.firebaseapp.com",
-  projectId: "chatbot-e3d89",
-  storageBucket: "chatbot-e3d89.appspot.com",
-  messagingSenderId: "324977012004",
-  appId: "1:324977012004:web:699c5ccc3a2237864917b1"
+  apiKey: "YOUR OWN INFO",
+  authDomain: "YOUR OWN INFO",
+  projectId: "YOUR OWN INFO",
+  storageBucket: "YOUR OWN INFO",
+  messagingSenderId: "YOUR OWN INFO",
+  appId: "YOUR OWN INFO"
 };
 
 // Initialize Firebase and modify accrdingly so that we can use firebase by just calling the app variable
